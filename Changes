@@ -1,0 +1,6 @@
+Revision history for App-ListUbuntuReleases
+
+0.05    2015-09-22 (PERLANCAR) (unreleased)
+
+        - First release, split from Ubuntu-Release to keep its dependencies
+          small.
