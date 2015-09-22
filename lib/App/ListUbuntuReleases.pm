@@ -1,13 +1,13 @@
-package App::ListDebianReleases;
+package App::ListUbuntuReleases;
 
 # DATE
 # VERSION
 
 1;
-# ABSTRACT: List Debian releases (CLI)
+# ABSTRACT: List Ubuntu releases (CLI)
 
 =head1 DESCRIPTION
 
-See the included script L<list-debian-releases>.
+See the included script L<list-ubuntu-releases>.
 
 =cut
